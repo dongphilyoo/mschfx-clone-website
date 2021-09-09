@@ -1,5 +1,5 @@
-# MSCHF Engineer Test
-### Phil (Dongphil Yoo)
+# MSCHF X Clone Website
+### Dongphil Yoo
 
 > [Netlify Deployed](https://tender-visvesvaraya-bcfda7.netlify.app/)
 
