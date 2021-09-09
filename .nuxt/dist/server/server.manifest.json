@@ -1,0 +1,15 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/index.js": "pages/index.js",
+    "pages/lookbook.js": "pages/lookbook.js",
+    "pages/manifesto.js": "pages/manifesto.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/index.js": "pages/index.js.map",
+    "pages/lookbook.js": "pages/lookbook.js.map",
+    "pages/manifesto.js": "pages/manifesto.js.map",
+    "server.js": "server.js.map"
+  }
+}

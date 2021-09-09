@@ -1,0 +1,23 @@
+[
+  {
+    "name": "lookbook",
+    "path": "/lookbook",
+    "component": "/Users/dongphilyoo/dev/mschfx-clone-website/pages/lookbook.vue",
+    "chunkName": "pages/lookbook",
+    "_name": "_d293d4a0"
+  },
+  {
+    "name": "manifesto",
+    "path": "/manifesto",
+    "component": "/Users/dongphilyoo/dev/mschfx-clone-website/pages/manifesto.vue",
+    "chunkName": "pages/manifesto",
+    "_name": "_6e0ecfa8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/dongphilyoo/dev/mschfx-clone-website/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7abca14c"
+  }
+]

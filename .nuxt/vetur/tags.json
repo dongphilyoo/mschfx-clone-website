@@ -1,0 +1,68 @@
+{
+  "ButtonManifesto": {
+    "description": "Auto imported from components/ButtonManifesto.vue"
+  },
+  "LazyButtonManifesto": {
+    "description": "Auto imported from components/ButtonManifesto.vue"
+  },
+  "Buttons": {
+    "description": "Auto imported from components/Buttons.vue"
+  },
+  "LazyButtons": {
+    "description": "Auto imported from components/Buttons.vue"
+  },
+  "Buttonsnoshop": {
+    "description": "Auto imported from components/Buttonsnoshop.vue"
+  },
+  "LazyButtonsnoshop": {
+    "description": "Auto imported from components/Buttonsnoshop.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "MschfPreloader": {
+    "description": "Auto imported from components/MSCHFPreloader.vue"
+  },
+  "LazyMschfPreloader": {
+    "description": "Auto imported from components/MSCHFPreloader.vue"
+  },
+  "Main": {
+    "description": "Auto imported from components/Main.vue"
+  },
+  "LazyMain": {
+    "description": "Auto imported from components/Main.vue"
+  },
+  "Mobile": {
+    "description": "Auto imported from components/Mobile.vue"
+  },
+  "LazyMobile": {
+    "description": "Auto imported from components/Mobile.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "Navbarold": {
+    "description": "Auto imported from components/Navbarold.vue"
+  },
+  "LazyNavbarold": {
+    "description": "Auto imported from components/Navbarold.vue"
+  },
+  "Shirtswap": {
+    "description": "Auto imported from components/Shirtswap.vue"
+  },
+  "LazyShirtswap": {
+    "description": "Auto imported from components/Shirtswap.vue"
+  },
+  "Ticker": {
+    "description": "Auto imported from components/Ticker.vue"
+  },
+  "LazyTicker": {
+    "description": "Auto imported from components/Ticker.vue"
+  }
+}
