@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "VCROSDMONO";
+    src: local("VCROSDMONO"),
+     url(~assets/fonts/VCR_OSD_MONO.ttf) format("truetype"),
+     url(~assets/fonts/VCR_OSD_MONO.woff) format("woff"),
+     url(~assets/fonts/VCR_OSD_MONO.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "FoundersGrotesk";
+    src: local("FoundersGrotesk"),
+     url(~assets/fonts/FoundersGrotesk-Regular.ttf) format("truetype"),
+     url(~assets/fonts/FoundersGrotesk-Regular.woff) format("woff"),
+     url(~assets/fonts/FoundersGrotesk-Regular.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "FoundersGroteskSemiBold";
+    src: local("FoundersGroteskSemiBold"),
+     url(~assets/fonts/FoundersGrotesk-Semibold.ttf) format("truetype"),
+     url(~assets/fonts/FoundersGrotesk-Semibold.woff) format("woff"),
+     url(~assets/fonts/FoundersGrotesk-Semibold.woff2) format("woff2");
+}
+
+@font-face {font-family: "TitlingGothicFB Extended Medium"; src: url("//db.onlinewebfonts.com/t/38a367caf669011075e5d4107ee090a3.eot"); src: url("//db.onlinewebfonts.com/t/38a367caf669011075e5d4107ee090a3.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/38a367caf669011075e5d4107ee090a3.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/38a367caf669011075e5d4107ee090a3.woff") format("woff"), url("//db.onlinewebfonts.com/t/38a367caf669011075e5d4107ee090a3.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/38a367caf669011075e5d4107ee090a3.svg#TitlingGothicFB Extended Medium") format("svg"); }
